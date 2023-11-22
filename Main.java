@@ -13,7 +13,7 @@ import java.util.Scanner;
         this.duration = 0;
 
     }
-
+фрвпофпырвфвпфров
     public Track(String name) {
         this.name = name;
         this.genre = "";
